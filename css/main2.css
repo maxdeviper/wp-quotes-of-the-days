@@ -34,7 +34,7 @@
     width: auto;
     text-align: right
 }
-#wp-quotes .content {
+/*#wp-quotes .content {
         -webkit-box-ordinal-group: 2;
         -ms-flex-order: 2;
         -webkit-order: 2;
@@ -50,7 +50,7 @@
         margin-top: 0!important;
         width: 50%!important
 }
-
+*/
 
 #wp-quotes .navigation {
     text-align: right;
@@ -265,6 +265,33 @@
 	    width: 100%;
 	    left: 0;
 	    top: 0;
+	}
+	#wp-quotes .container {
+	    position: relative;
+	    display: -webkit-box;
+	    display: -ms-flexbox;
+	    display: -webkit-flex;
+	    display: flex;
+	    -webkit-box-orient: vertical;
+	    -webkit-box-direction: normal;
+	    -webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	    flex-direction: column;
+	    -webkit-flex-wrap: nowrap;
+	    -ms-flex-wrap: nowrap;
+	    flex-wrap: nowrap;
+	    padding: 1.125rem 0!important;
+	}
+
+	#wp-quotes .content {
+	    -webkit-box-ordinal-group: 2;
+	    -ms-flex-order: 2;
+	    -webkit-order: 2;
+	    order: 2;
+	    display: block;
+	    padding: 0 .875rem;
+	    min-height: 0!important;
+	    border: none;
 	}
 	#wp-quotes .content {
 	    -webkit-box-ordinal-group: 2;

@@ -25,6 +25,7 @@ function opus_hive_display_quote(){
 
 function opus_hive_quote_enqueue_style() {
 	wp_enqueue_style( 'opus_hive_quote_css', plugin_dir_url( __FILE__ ).'/css/main2.css'); 
+	wp_enqueue_style( 'font-awesome', "https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"); 
 }
 
 function opus_hive_quote_enqueue_script() {
