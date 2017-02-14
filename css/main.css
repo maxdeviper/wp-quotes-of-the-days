@@ -1,0 +1,2083 @@
+
+
+.icon:before {
+    display: inline-block;
+    font-family: forbesicon;
+    speak: none;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    line-height: 1;
+    text-decoration: inherit;
+    text-rendering: optimizeLegibility;
+    text-transform: none;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased
+}
+
+.icon-arrow-down:before {
+    content: "\f100"
+}
+
+.icon-arrow-down-bar:before {
+    content: "\f149"
+}
+
+.icon-arrow-up:before {
+    content: "\f101"
+}
+
+.icon-badge:before {
+    content: "\f15f"
+}
+
+.icon-book:before {
+    content: "\f102"
+}
+
+.icon-brandvoice-logo:before {
+    content: "\f150"
+}
+
+.icon-brandvoice-logo-brand:before {
+    content: "\f151"
+}
+
+.icon-brandvoice-logo-voice:before {
+    content: "\f152"
+}
+
+.icon-calendar:before {
+    content: "\f143"
+}
+
+.icon-cart:before {
+    content: "\f15b"
+}
+
+.icon-chat:before {
+    content: "\f15c"
+}
+
+.icon-check:before {
+    content: "\f103"
+}
+
+.icon-chevron-down:before {
+    content: "\f135"
+}
+
+.icon-chevron-left:before {
+    content: "\f136"
+}
+
+.icon-chevron-right:before {
+    content: "\f137"
+}
+
+.icon-chevron-up:before {
+    content: "\f138"
+}
+
+.icon-clipboard:before {
+    content: "\f148"
+}
+
+.icon-clock:before {
+    content: "\f146"
+}
+
+.icon-close:before {
+    content: "\f104"
+}
+
+.icon-cog:before {
+    content: "\f134"
+}
+
+.icon-comment-bubble:before {
+    content: "\f105"
+}
+
+.icon-copy:before {
+    content: "\f153"
+}
+
+.icon-download:before {
+    content: "\f14a"
+}
+
+.icon-edit:before {
+    content: "\f141"
+}
+
+.icon-email:before {
+    content: "\f106"
+}
+
+.icon-enlarge:before {
+    content: "\f147"
+}
+
+.icon-explore:before {
+    content: "\f161"
+}
+
+.icon-facebook:before {
+    content: "\f139"
+}
+
+.icon-flame:before {
+    content: "\f15e"
+}
+
+.icon-forbes-life:before {
+    content: "\f107"
+}
+
+.icon-forbes-logo:before {
+    content: "\f108"
+}
+
+.icon-forbes-logo-f:before {
+    content: "\f109"
+}
+
+.icon-gallery:before {
+    content: "\f140"
+}
+
+.icon-georgia-daquo:before {
+    content: "\f10a"
+}
+
+.icon-georgia-uaquo:before {
+    content: "\f10b"
+}
+
+.icon-google:before {
+    content: "\f13a"
+}
+
+.icon-group:before {
+    content: "\f10c"
+}
+
+.icon-hamburger:before {
+    content: "\f10d"
+}
+
+.icon-handshake:before {
+    content: "\f14b"
+}
+
+.icon-home:before {
+    content: "\f10e"
+}
+
+.icon-instagram:before {
+    content: "\f13b"
+}
+
+.icon-link:before {
+    content: "\f10f"
+}
+
+.icon-linkedin:before {
+    content: "\f13c"
+}
+
+.icon-location:before {
+    content: "\f156"
+}
+
+.icon-lock:before {
+    content: "\f154"
+}
+
+.icon-megaphone:before {
+    content: "\f14c"
+}
+
+.icon-microphone:before {
+    content: "\f14d"
+}
+
+.icon-pause:before {
+    content: "\f15d"
+}
+
+.icon-phone-call:before {
+    content: "\f14e"
+}
+
+.icon-pinterest:before {
+    content: "\f13d"
+}
+
+.icon-plus:before {
+    content: "\f110"
+}
+
+.icon-preview-eye:before {
+    content: "\f145"
+}
+
+.icon-print:before {
+    content: "\f111"
+}
+
+.icon-reply:before {
+    content: "\f112"
+}
+
+.icon-reset:before {
+    content: "\f113"
+}
+
+.icon-rss-feed:before {
+    content: "\f114"
+}
+
+.icon-search:before {
+    content: "\f115"
+}
+
+.icon-share:before {
+    content: "\f116"
+}
+
+.icon-square-bracket-left:before {
+    content: "\f11e"
+}
+
+.icon-square-bracket-right:before {
+    content: "\f11f"
+}
+
+.icon-staff-verified:before {
+    content: "\f158"
+}
+
+.icon-star:before {
+    content: "\f120"
+}
+
+.icon-terms:before {
+    content: "\f14f"
+}
+
+.icon-trash:before {
+    content: "\f142"
+}
+
+.icon-tumblr:before {
+    content: "\f13e"
+}
+
+.icon-twitter:before {
+    content: "\f13f"
+}
+
+.icon-twitter-verified:before {
+    content: "\f157"
+}
+
+.icon-u30-logo:before {
+    content: "\f155"
+}
+
+.icon-under-30-logo:before {
+    content: "\f159"
+}
+
+.icon-user:before {
+    content: "\f125"
+}
+
+.icon-video:before {
+    content: "\f126"
+}
+
+.icon-womenforbes-logo:before {
+    content: "\f160"
+}
+
+.icon-youtube:before {
+    content: "\f15a"
+}
+
+a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline
+}
+
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
+    display: block
+}
+
+body {
+    line-height: 1
+}
+
+ol,ul {
+    list-style: none
+}
+
+blockquote,q {
+    quotes: none
+}
+
+blockquote:after,blockquote:before,q:after,q:before {
+    content: '';
+    content: none
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+
+button {
+    border: none;
+    outline: 0;
+    padding: 0;
+    background: 0 0;
+    cursor: pointer
+}
+
+a {
+    text-decoration: none;
+    -webkit-tap-highlight-color: transparent
+}
+
+h1,h2,h3,h4,h5,h6,ol,p,ul {
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    -webkit-padding-start: 0
+}
+
+img {
+    max-width: 100%
+}
+
+sup {
+    vertical-align: super;
+    font-size: 70%
+}
+
+em,i {
+    font-style: italic
+}
+
+b,strong {
+    font-weight: 700
+}
+
+*,:after,:before {
+    -webkit-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box
+}
+
+body,html {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    -webkit-text-size-adjust: 100%
+}
+
+body {
+    min-height: 100%
+}
+
+.scroll {
+    -webkit-overflow-scrolling: touch
+}
+
+.row {
+    width: 100%
+}
+
+.row-inner {
+    margin: 0 auto;
+    position: relative;
+    width: 100%
+}
+
+.row-inner:after,.row-inner:before {
+    content: " ";
+    display: table
+}
+
+.row-inner:after {
+    clear: both
+}
+
+.scroll-wrapper {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    width: 100%;
+    height: 100%
+}
+
+.hidden {
+    display: none!important;
+}
+
+.anim {
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-transform: translate3d(0,0,0);
+    -ms-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+    -webkit-perspective: 1000;
+    -ms-perspective: 1000;
+    -o-perspective: 1000;
+    perspective: 1000
+}
+
+.clearfix:after,.clearfix:before {
+    content: " ";
+    display: table
+}
+
+.clearfix:after {
+    clear: both
+}
+
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 300;
+    src: local("Source Sans Pro Light"),local("SourceSansPro-Light"),url(https://fonts.gstatic.com/s/sourcesanspro/v9/toadOcfmlt9b38dHJxOBGCP2LEk6lMzYsRqr3dHFImA.woff2) format("woff2");
+    unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215,U+E0FF,U+EFFD,U+F000
+}
+
+body {
+    background: -webkit-gradient(linear,left top,left bottom,from(rgba(0,0,0,.65)),to(rgba(0,0,0,.65))) 0 0/cover, 0 0/cover;
+    background: -webkit-linear-gradient(rgba(0,0,0,.65),rgba(0,0,0,.65)) 0 0/cover, 0 0/cover;
+    background: linear-gradient(rgba(0,0,0,.65),rgba(0,0,0,.65)) 0 0/cover, 0 0/cover;
+    overflow: auto;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+body.sponsored-template {
+    background: 0 0
+}
+
+body.sponsored-template .container #content {
+    width: 100%;
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none
+}
+
+body.sponsored-template .content-container {
+    display: none
+}
+
+body.expand-start {
+    overflow: hidden!important
+}
+
+body.expand-finish {
+    background: #fff
+}
+
+.container {
+    max-width: 1600px;
+    margin: 0 auto;
+    height: auto;
+    padding: 1rem 3.5%;
+    white-space: nowrap;
+    width: auto;
+    text-align: right
+}
+
+.container.ad-640-by-480 {
+    min-width: 656px
+}
+
+.container.ad-800-by-600 {
+    min-width: 816px
+}
+
+.container.ad-800-by-600 #navigation {
+    margin-top: 1rem
+}
+
+.container.leaderboard #content {
+    width: 100%;
+    height: 320px;
+    height: 20rem
+}
+
+.container.leaderboard #ads {
+    width: 100%;
+    text-align: center;
+    display: block;
+    float: left
+}
+
+#navigation {
+    text-align: right;
+    height: 60.8px;
+    height: 3.8rem;
+    margin-top: 2.75rem
+}
+
+#content {
+    display: inline-block;
+    white-space: normal;
+    margin-top: 2.5rem;
+    float: left;
+    vertical-align: top;
+    margin-right: 1rem;
+    text-align: left;
+    position: relative
+}
+
+#content:after {
+    content: '';
+    display: block;
+    padding-bottom: 100%
+}
+
+#ads {
+    width: auto;
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+    text-align: right
+}
+
+@media all and (min-width: 481px) and (max-width:768px) and (max-height:768px) {
+    .container {
+        -webkit-box-orient:horizontal;
+        -webkit-box-direction: normal;
+        -webkit-flex-direction: row;
+        -ms-flex-direction: row;
+        flex-direction: row;
+        -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        padding: .5rem 1rem 0!important
+    }
+
+    #navigation {
+        -webkit-box-ordinal-group: 1;
+        -ms-flex-order: 1;
+        -webkit-order: 1;
+        order: 1;
+        -webkit-flex-basis: 100%;
+        -ms-flex-preferred-size: 100%;
+        flex-basis: 100%;
+        height: auto
+    }
+
+    #content {
+        -webkit-box-ordinal-group: 2;
+        -ms-flex-order: 2;
+        -webkit-order: 2;
+        order: 2;
+        -webkit-flex-basis: 40%;
+        -ms-flex-preferred-size: 40%;
+        flex-basis: 40%;
+        height: 100%;
+        display: block;
+        float: none;
+        position: static;
+        min-height: 0!important;
+        margin-top: 0!important;
+        width: 50%!important
+    }
+
+    #ads {
+        -webkit-box-ordinal-group: 3;
+        -ms-flex-order: 3;
+        -webkit-order: 3;
+        order: 3;
+        -webkit-flex-basis: 55%;
+        -ms-flex-preferred-size: 55%;
+        flex-basis: 55%;
+        width: 50%!important
+    }
+}
+
+@media screen and (max-width: 768px) {
+    body {
+       /* background:-webkit-gradient(linear,left top,left bottom,from(rgba(0,0,0,.7)),to(rgba(0,0,0,.7))) 0 0/cover,url(//specials-images.forbesimg.com/imageserve/57d17811a7ea430a8a19b055/400x0.jpg?quality=30) 0 0/cover;
+        background: -webkit-linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7)) 0 0/cover,url(//specials-images.forbesimg.com/imageserve/57d17811a7ea430a8a19b055/400x0.jpg?quality=30) 0 0/cover;
+        background: linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7)) 0 0/cover,url(//specials-images.forbesimg.com/imageserve/57d17811a7ea430a8a19b055/400x0.jpg?quality=30) 0 0/cover*/
+    }
+
+    .container {
+        padding: 0 1rem
+    }
+
+    #content {
+        width: 100%;
+        height: auto;
+        position: relative;
+        margin-top: 1rem;
+        float: none
+    }
+
+    #content:after {
+        display: none
+    }
+
+    .ad-640-by-480 #content {
+        position: initial;
+        height: 400px
+    }
+
+    #ads {
+        width: 100%;
+        text-align: center;
+        display: block
+    }
+}
+
+@media screen and (min-width: 769px) {
+    .container.leaderboard {
+        margin:0 auto
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width:1024px) {
+    .container {
+        padding:1rem .5rem
+    }
+
+    #content {
+        margin-top: .1rem;
+        padding-right: 0
+    }
+}
+
+@media screen and (min-width: 1025px) {
+    .container.leaderboard #content {
+        width:35%;
+        height: auto;
+        margin: 0 auto;
+        display: block;
+        float: none
+    }
+
+    #content {
+        margin-top: .5rem;
+        width: 43%;
+        -webkit-transform: translateY(-8%);
+        -ms-transform: translateY(-8%);
+        transform: translateY(-8%);
+        z-index: 10
+    }
+}
+
+@media all and (max-width: 480px) {
+    body {
+        /*background:-webkit-gradient(linear,left top,left bottom,from(rgba(0,0,0,.75)),to(rgba(0,0,0,.75))) 0 0/cover,url(//specials-images.forbesimg.com/imageserve/57d1780231358e16c58964f4/240x.jpg?quality=30) 0 0/cover;
+        background: -webkit-linear-gradient(rgba(0,0,0,.75),rgba(0,0,0,.75)) 0 0/cover,url(//specials-images.forbesimg.com/imageserve/57d1780231358e16c58964f4/240x.jpg?quality=30) 0 0/cover;
+        background: linear-gradient(rgba(0,0,0,.75),rgba(0,0,0,.75)) 0 0/cover,url(//specials-images.forbesimg.com/imageserve/57d1780231358e16c58964f4/240x.jpg?quality=30) 0 0/cover*/
+    }
+
+    .container {
+        position: relative;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-flex-wrap: nowrap;
+        -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+        padding: 1.125rem 0!important
+    }
+
+    #navigation {
+        position: absolute;
+        right: 0;
+        margin-top: 0;
+        -webkit-box-ordinal-group: 1;
+        -ms-flex-order: 1;
+        -webkit-order: 1;
+        order: 1;
+        margin-bottom: 0;
+        padding: 0 .875rem;
+        height: auto
+    }
+
+    #content {
+        -webkit-box-ordinal-group: 2;
+        -ms-flex-order: 2;
+        -webkit-order: 2;
+        order: 2;
+        display: block;
+        padding: 0 .875rem;
+        min-height: 0!important;
+        border: none
+    }
+
+    #content:after {
+        display: none
+    }
+
+    #ads {
+        -webkit-box-ordinal-group: 3;
+        -ms-flex-order: 3;
+        -webkit-order: 3;
+        order: 3
+    }
+}
+
+.invisible {
+    visibility: hidden;
+    opacity: 0!important
+}
+
+.navigation-container .continue-button,.navigation-container .countdown {
+    -webkit-transition: color .3s ease-in-out;
+    transition: color .3s ease-in-out;
+    text-decoration: none;
+    font: 700 32px/60px Oswald,sans-serif;
+    font: 700 2rem/3.75rem Oswald,sans-serif;
+    text-transform: uppercase;
+    border-radius: 5px;
+    color: #fff;
+    vertical-align: middle;
+    width: 361.01px;
+    width: 22.563rem;
+    display: inline-block;
+    height: 60px;
+    height: 3.75rem;
+    line-height: 60px;
+    line-height: 3.75rem;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    padding: 0 2.3rem
+}
+
+.navigation-container {
+    text-transform: uppercase;
+    position: relative;
+    z-index: 1
+}
+
+.navigation-container .continue-button {
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+    cursor: pointer;
+    opacity: 1;
+    will-change: opacity
+}
+
+.navigation-container .continue-button:active,.navigation-container .continue-button:focus,.navigation-container .continue-button:hover {
+    color: #b3b3b3
+}
+
+.navigation-container .continue-button:active .chevron,.navigation-container .continue-button:focus .chevron,.navigation-container .continue-button:hover .chevron {
+    left: 10px;
+    color: #b3b3b3
+}
+
+.navigation-container .count {
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+    will-change: opacity
+}
+
+.navigation-container .chevron {
+    color: #fff;
+    position: relative;
+    left: 5px;
+    font-size: 32px;
+    font-size: 2rem;
+    vertical-align: baseline;
+    line-height: 32.32px;
+    line-height: 2.02rem;
+    -webkit-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out
+}
+
+@media all and (max-width: 480px) {
+    .navigation-container {
+        position:static
+    }
+
+    .navigation-container .countdown {
+        position: absolute;
+        top: 0;
+        font-size: 1.44rem;
+        display: block;
+        width: 100%;
+        padding: 0 1.125rem;
+        line-height: 2.5rem;
+        height: 2.5rem
+    }
+
+    .navigation-container .continue-button {
+        font-size: 1.44rem;
+        display: block;
+        width: 100%;
+        padding: 0 1.125rem;
+        line-height: 2.5rem;
+        height: 2.5rem;
+        text-align: right;
+        cursor: pointer
+    }
+
+    .navigation-container .continue-button:active .chevron,.navigation-container .continue-button:focus .chevron,.navigation-container .continue-button:hover .chevron {
+        left: 5px
+    }
+
+    .navigation-container .chevron {
+        font-size: 1.44rem;
+        line-height: 2.5rem;
+        vertical-align: baseline
+    }
+}
+
+@media all and (min-width: 480px) and (max-width:768px) and (max-height:768px) {
+    .navigation-container {
+        margin:0 0 .75rem;
+        position: static
+    }
+
+    .navigation-container .countdown {
+        font-size: 1.44rem;
+        display: block;
+        width: 100%;
+        padding: 0 1.125rem;
+        line-height: 2.5rem;
+        height: 2.5rem
+    }
+
+    .navigation-container .continue-button {
+        display: block;
+        position: static;
+        font-size: 1.44rem;
+        width: 100%;
+        padding: 0 1.125rem;
+        line-height: 2.5rem;
+        height: 2.5rem;
+        text-align: right;
+        cursor: pointer
+    }
+
+    .navigation-container .chevron {
+        font-size: 1.44rem;
+        line-height: 2.5rem;
+        vertical-align: baseline
+    }
+}
+
+.content-container {
+    position: relative;
+    z-index: 2;
+    margin: 0;
+    /* border-radius:100%; */
+    border: 5px solid #fff;
+}
+
+.leaderboard .content-container {
+    margin: 0 auto
+}
+
+.content-container .title {
+    font: 800 3vw/2.5vw Raleway,sans-serif;
+    width: 75%;
+    text-transform: uppercase;
+    white-space: nowrap
+}
+
+.content-container .title .branding {
+    display: block;
+    color: #fff;
+    font-size: 2.5vw;
+    line-height: 2.5vw;
+    opacity: 1;
+    -webkit-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out
+}
+
+.content-container .title span {
+    display: block;
+    opacity: 1;
+    -webkit-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out
+}
+
+.content-container .title .top {
+    color: #666;
+    text-align: left
+}
+
+.content-container .title .bottom {
+    color: #b3b3b3;
+    margin-left: 1.5rem;
+    text-align: right
+}
+
+.content-container .body {
+    color: #e6f4f4;
+    width: auto;
+    font-family: "Source Sans Pro",sans-serif;
+    font-weight: 100
+}
+
+.leaderboard .content-container .body {
+    width: 550px;
+    left: -20%
+}
+
+.content-container p {
+    opacity: 1;
+    -webkit-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out
+}
+
+.content-container .body-byline,.content-container .body-content {
+    font-size: 2.5vw;
+    line-height: 2.75vw
+}
+
+.ad-800-by-600 .content-container .body-byline,.ad-800-by-600 .content-container .body-content,.leaderboard .content-container .body-byline,.leaderboard .content-container .body-content {
+    font-size: 2vw;
+    line-height: 2.5vw
+}
+
+.content-container .twitter-data {
+    float: right;
+    margin: 0 1em .25em 0;
+    font-size: 1.25vw
+}
+
+.content-container .body-content {
+    position: relative;
+    clear: both;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    quotes: '\201C' '\201D'
+}
+
+.content-container .body-content img {
+    position: absolute;
+    left: -7%;
+    width: 10%;
+    opacity: .15
+}
+
+.content-container .body-content:after {
+    content: '\201D';
+    position: relative;
+    right: 5px
+}
+
+.content-container .body-byline {
+    font-style: italic;
+    font-size: 2vw;
+    text-align: right;
+    margin-top: .5rem
+}
+
+.content-container .body-byline:before {
+    content: '- '
+}
+
+#adblock-hover {
+    position: absolute;
+    min-width: 100%;
+    min-height: 100%;
+    background-color: #e7e7e7;
+    z-index: 3;
+    top: -35px;
+    padding: 5px;
+    text-align: center
+}
+
+#adblock-hover .close-btn {
+    float: right;
+    padding-bottom: 2px;
+    cursor: pointer
+}
+
+#adblock-hover a {
+    background-color: #51bccc;
+    font: 19px "Open Sans",sans-serif;
+    color: #fff;
+    padding: .75em 1.75em;
+    margin: 42px auto 0;
+    border-radius: 4px;
+    display: inline-block
+}
+
+@media all and (max-width: 480px) and (min-height:600px) {
+    .container {
+        height:100%
+    }
+
+    .container #ads {
+        position: absolute;
+        bottom: 5%
+    }
+}
+
+@media all and (min-width: 481px) and (max-width:768px) and (max-height:768px) {
+    .content-container {
+        margin:0!important;
+        display: block;
+        padding-right: 1rem;
+        padding-top: 0!important;
+        width: 100%!important;
+        position: relative!important;
+        top: -3rem!important;
+        border: none!important
+    }
+
+    .content-container:after {
+        display: none!important
+    }
+
+    .leaderboard .content-container .branding {
+        font-size: 1.5rem;
+        line-height: 1.5rem
+    }
+
+    .leaderboard .content-container .title span {
+        font-size: 1.85rem!important;
+        line-height: 1.85rem!important;
+        white-space: normal
+    }
+
+    .leaderboard .content-container .body {
+        font-size: 1.15rem!important;
+        line-height: 1.25rem!important
+    }
+
+    .content-container .content-inner {
+        display: block;
+        position: static;
+        -webkit-transform: none!important;
+        -ms-transform: none!important;
+        transform: none!important;
+        width: 100%!important;
+        left: 0!important;
+        top: 0!important
+    }
+
+    .content-container .branding {
+        font-size: 1.5rem!important;
+        line-height: 1.5rem!important
+    }
+
+    .content-container .title {
+        width: 100%!important;
+        font-size: 1.25rem!important;
+        line-height: 1.25rem!important;
+        white-space: normal!important
+    }
+
+    .content-container .title span {
+        display: inline
+    }
+
+    .content-container .title .top {
+        margin: 0
+    }
+
+    .content-container .title .bottom {
+        margin: 0;
+        text-align: left
+    }
+
+    .content-container .body {
+        font-size: 1.15rem;
+        line-height: 1.25rem;
+        width: auto;
+        left: 0;
+        position: static!important
+    }
+
+    .content-container .body .twitter-data {
+        margin-right: initial
+    }
+
+    .content-container .body-content {
+        padding: 0!important;
+        font-size: 1.25rem!important;
+        line-height: 1.5rem!important
+    }
+}
+
+@media all and (min-width: 769px) and (max-width:1024px) {
+    .content-container {
+        margin:0 auto;
+        width: auto;
+        border: none
+    }
+
+    .leaderboard .content-container {
+        margin-top: 2rem;
+        width: 23rem
+    }
+
+    .content-container .title {
+        font-size: 3rem;
+        line-height: 2.5rem;
+        margin: 0
+    }
+
+    .content-container .title .branding {
+        font-size: 1.75rem;
+        line-height: 2rem
+    }
+
+    .content-container .title .bottom {
+        margin-left: 1.5rem
+    }
+
+    .content-container .twitter-data {
+        font-size: 1rem
+    }
+
+    .content-container .body {
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        font: 300 1.35rem/1.5rem "Source Sans Pro",sans-serif;
+        position: absolute;
+        padding: 0;
+        width: auto
+    }
+
+    .content-container .body-content {
+        padding: 0;
+        font-size: 2rem;
+        line-height: 2rem
+    }
+
+    .content-container .body-content img {
+        left: -1%
+    }
+
+    .content-container .body-byline {
+        font-size: 1.25rem
+    }
+}
+
+@media all and (max-width: 767px) {
+    #content #adblock-hover {
+        background-color:#fff
+    }
+
+    #content #adblock-hover img {
+        height: auto;
+        display: inline;
+        margin-left: 0
+    }
+
+    #content #adblock-hover a {
+        position: relative;
+        top: 0;
+        margin-left: 0;
+        margin-top: 12px
+    }
+}
+
+@media all and (max-width: 768px) {
+    #adblock-hover {
+        top:0;
+        padding: 3px
+    }
+
+    #adblock-hover img {
+        height: 375px;
+        display: inline-block;
+        margin-left: 40px
+    }
+
+    #adblock-hover a {
+        position: relative;
+        top: -190px;
+        margin-left: 60px
+    }
+
+    .content-container {
+        margin: 0 auto;
+        position: relative;
+        width: 70%
+    }
+
+    .content-container:after {
+        content: '';
+        display: block;
+        padding-bottom: 100%
+    }
+
+    .ad-640-by-480 .content-container {
+        width: 60%;
+        position: absolute;
+        top: 10px
+    }
+
+    .content-container .content-inner {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        width: 75%;
+        -webkit-transform: translate(-50%,-50%);
+        -ms-transform: translate(-50%,-50%);
+        transform: translate(-50%,-50%)
+    }
+
+    .leaderboard .content-container {
+        margin-top: 0!important;
+        padding-top: 1.5rem;
+        margin: 0 auto;
+        width: 26rem
+    }
+
+    .leaderboard .content-container .title span {
+        font-size: 3.5rem;
+        line-height: 3rem
+    }
+
+    .leaderboard .content-container .title .branding {
+        font-size: 1.75rem;
+        line-height: 2rem
+    }
+
+    .leaderboard .content-container .body {
+        left: -10%;
+        width: 125%;
+        font-size: 1.5rem;
+        line-height: 1.75rem
+    }
+
+    .content-container .title {
+        width: 50%
+    }
+
+    .content-container .body {
+        position: relative
+    }
+
+    .content-container .body-content {
+        padding: 0 4%;
+        font-size: 2.25rem;
+        line-height: 2.25rem
+    }
+
+    .ad-800-by-600 .content-container .body-content {
+        font-size: 2.25rem;
+        line-height: 2.25rem
+    }
+
+    .ad-640-by-480 .content-container .body-content {
+        font-size: 2rem;
+        line-height: 2rem
+    }
+
+    .content-container .body-content img {
+        left: -4%;
+        width: 12%
+    }
+
+    .content-container .twitter-data {
+        margin-right: 4em;
+        font-size: 1rem
+    }
+
+    .content-container .body-byline {
+        text-align: right;
+        font-size: 1.25rem
+    }
+}
+
+@media all and (max-width: 480px) {
+    #adblock-hover {
+        position:fixed;
+        left: 0
+    }
+
+    .content-container {
+        margin: 0 auto;
+        margin-top: 0!important;
+        width: auto!important;
+        padding-top: 0!important;
+        max-width: 480px;
+        border: none
+    }
+
+    .content-container:after {
+        display: none
+    }
+
+    .content-container .content-inner {
+        -webkit-transform: none;
+        -ms-transform: none;
+        transform: none;
+        position: relative;
+        width: 100%;
+        left: 0;
+        top: 0
+    }
+
+    .content-container .title {
+        width: 50%;
+        font-size: 1.55rem!important;
+        line-height: 1.55rem!important;
+        white-space: normal
+    }
+
+    .content-container .title .branding {
+        font-size: 1.38rem;
+        line-height: 1.38rem
+    }
+
+    .content-container .title .bottom {
+        margin-left: 0
+    }
+
+    .content-container .body {
+        font: 300 1.5rem/2rem "Source Sans Pro",sans-serif;
+        width: 80%;
+        position: relative;
+        margin: 0 auto;
+        left: 0
+    }
+
+    .content-container .twitter-data {
+        float: none;
+        font-size: 1.25rem;
+        margin-right: initial
+    }
+
+    .content-container .body-content {
+        padding: 0!important;
+        font-size: 1.5rem;
+        line-height: 1.75rem
+    }
+
+    .content-container .body-content img {
+        left: -8%;
+        width: 12%
+    }
+
+    .content-container .body-byline {
+        font-size: 1.2rem
+    }
+
+    .leaderboard .content-container .title {
+        font-size: 1.85rem!important;
+        line-height: 1.85rem
+    }
+
+    .leaderboard .content-container .body {
+        position: static;
+        max-width: 480px;
+        width: 100%
+    }
+}
+
+@media all and (min-width: 1025px) {
+    .content-container {
+        position:absolute;
+        height: 100%;
+        width: 100%
+    }
+
+    .content-container .content-inner {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        width: 75%;
+        -webkit-transform: translate(-50%,-50%);
+        -ms-transform: translate(-50%,-50%);
+        transform: translate(-50%,-50%)
+    }
+
+    .ads {
+        width: 50%
+    }
+
+    .leaderboard .content-container {
+        width: 100%;
+        margin: 0 auto
+    }
+
+    .leaderboard .content-container .body {
+        width: 100%
+    }
+
+    .leaderboard .content-container .body-byline {
+        text-align: right
+    }
+
+    .leaderboard .content-container .title {
+        font-size: 2.5vw;
+        line-height: 2vw
+    }
+
+    .leaderboard .content-container .title .branding {
+        font-size: 1.75vw;
+        line-height: 1.75vw
+    }
+}
+
+@media all and (min-width: 1024px) {
+    .ad-800-by-600 #content {
+        max-width:40%
+    }
+
+    .ad-800-by-600 .content-container {
+        border: none
+    }
+
+    .ad-800-by-600 .content-container .content-inner {
+        position: relative;
+        width: 100%
+    }
+
+    .ad-800-by-600 .content-container .title .bottom {
+        text-align: center
+    }
+
+    .ad-800-by-600 .bottom,.ad-800-by-600 .top {
+        font-size: 4rem;
+        line-height: 3.5rem
+    }
+}
+
+@media all and (min-width: 1280px) {
+    .ad-800-by-600 #content {
+        max-width:33%
+    }
+}
+
+@media all and (max-width: 320px) {
+    .content-container .title {
+        font-size:1.5rem
+    }
+}
+
+.red {
+    color: #ff4242!important
+}
+
+.green {
+    color: #39c142!important
+}
+
+.ads-container {
+    margin-top: 3.125rem;
+    position: relative;
+    margin-left: 0;
+    float: none
+}
+
+.leaderboard .ads-container {
+    margin: 0 auto;
+    float: none;
+    display: block
+}
+
+.leaderboard .ads-container #welcome {
+    text-align: center
+}
+
+.leaderboard .ads-container .ab-message {
+    width: 970px;
+    height: 250px
+}
+
+.ad-640-by-480 .ads-container {
+    margin-left: 0
+}
+
+.ads-container #welcome {
+    text-align: right
+}
+
+.ads-container #welcome iframe:first-child {
+    border: 1px solid #000!important
+}
+
+.ads-container .ab-message {
+    position: relative;
+    text-align: left;
+    height: 405px;
+    width: 620px;
+    margin: auto;
+    background-color: #fff;
+    white-space: normal;
+    font: 300 44.8px/48px Raleway,sans-serif;
+    font: 300 2.8rem/3rem Raleway,sans-serif;
+    color: #777;
+    padding: 35px
+}
+
+.ads-container .ab-message .login-window,.ads-container .ab-message p {
+    will-change: translate;
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translate(0,-50%);
+    -ms-transform: translate(0,-50%);
+    transform: translate(0,-50%)
+}
+
+.ads-container .ab-message .login-window a,.ads-container .ab-message p a {
+    color: #00f
+}
+
+.ads-container .ab-message .login-window a:hover,.ads-container .ab-message p a:hover {
+    text-decoration: underline
+}
+
+.ads-container .ab-message .login-window {
+    position: relative;
+    min-height: 325px;
+    height: 100%;
+    font-family: "Open Sans",sans-serif
+}
+
+.ads-container .ab-message .login-window .login-toggle {
+    color: #777;
+    font: 13px "Open Sans",sans-serif;
+    text-decoration: underline;
+    position: absolute;
+    right: -20px;
+    top: -20px
+}
+
+.ads-container .ab-message .login-window .bottom-options {
+    position: absolute;
+    bottom: 0
+}
+
+.ads-container .ab-message .login-window .forbes-gigya-login {
+    min-height: 45px
+}
+
+.ads-container .ab-message .login-window .forbes-login {
+    text-align: center;
+    font-size: 16px;
+    padding-top: 3em
+}
+
+.ads-container .ab-message .login-window .forbes-login .forbes-logo {
+    line-height: 1.5em;
+    font-size: 21px
+}
+
+.ads-container .ab-message .login-window .forbes-login .icon-forbes-logo {
+    font-size: 1.2em
+}
+
+.ads-container .ab-message .login-window .forbes-login .forbes-login-form {
+    font-family: Arial
+}
+
+.ads-container .ab-message .login-window .forbes-login .password {
+    margin-right: .5em
+}
+
+.ads-container .ab-message .login-window .forbes-login #forbes-password,.ads-container .ab-message .login-window .forbes-login #forbes-username {
+    padding: .75em;
+    width: 150px;
+    font-size: 12px;
+    font-family: inherit;
+    border: 1px solid #646464;
+    border-style: inset;
+    border-radius: .3em
+}
+
+.ads-container .ab-message .login-window .forbes-login .forbes-login-button {
+    cursor: pointer;
+    font-size: 14px;
+    font-family: inherit;
+    font-weight: 700;
+    border: 1px solid #25282a;
+    border-radius: 5px;
+    color: #fff;
+    vertical-align: middle;
+    width: 32px;
+    width: 2rem;
+    height: 8px;
+    height: .5rem;
+    text-align: center;
+    padding: .5em 1em;
+    background-color: #215a88;
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#4a90db),to(#215a88));
+    background-image: -webkit-linear-gradient(top,#4a90db,#215a88);
+    background-image: linear-gradient(top,#4a90db,#215a88);
+    filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0, StartColorStr='#4a90db', EndColorStr='#215a88')
+}
+
+.ads-container .ab-message .login-window .forbes-login .forbes-login-button:before {
+    content: 'Log In'
+}
+
+.ads-container .ab-message .login-window .forbes-login .forbes-login-button.loading:before {
+    content: 'Loading...'
+}
+
+.ads-container .ab-message .login-window .login-hr {
+    text-align: center;
+    border-bottom: 1px solid #000;
+    line-height: .1em;
+    font-size: 19px;
+    font-style: italic;
+    width: 70%;
+    color: #000;
+    margin: 1em auto
+}
+
+.ads-container .ab-message .login-window .login-hr span {
+    background: #fff;
+    padding: 0 10px
+}
+
+.ads-container .ab-message .login-window .login-message {
+    text-align: center;
+    line-height: normal;
+    margin-bottom: .35em
+}
+
+.ads-container .ab-message .login-window .login-message svg {
+    height: 114px;
+    width: 114px
+}
+
+.ads-container .ab-message .login-window .login-message .detected {
+    font-size: 65px;
+    font-weight: lighter;
+    color: #000
+}
+
+.ads-container .ab-message .login-window .login-message .whitelist-hover {
+    font: 19px "Open Sans",sans-serif;
+    color: #fff!important;
+    background-color: #4ad486;
+    padding: .75em 1.75em;
+    border-radius: 4px
+}
+
+.ads-container .ab-message .login-window .login-message .whitelist-hover:hover {
+    text-decoration: none;
+    background-color: #68dd9b
+}
+
+.ads-container .ab-message .login-window [id^=gigya-wa] {
+    height: auto!important
+}
+
+.ads-container .ab-message .login-window .gigya-login-footer {
+    display: none!important
+}
+
+.ads-container .ab-message .login-window .terms {
+    font-size: 12px;
+    line-height: normal;
+    text-align: center;
+    margin-top: 2em
+}
+
+.ads-container .ab-message .login-window .terms a {
+    color: inherit;
+    text-decoration: underline
+}
+
+.ads-container .ab-message .login-window .terms>div {
+    max-width: 530px;
+    margin: 0 auto
+}
+
+.ads-container .ab-message .login-window .forbes-login-error,.ads-container .ab-message .login-window .forbes-login-loading,.ads-container .ab-message .login-window .login-error {
+    font-size: 15px
+}
+
+.ads-container .ab-message .login-window .forbes-login-error,.ads-container .ab-message .login-window .forbes-login-loading {
+    line-height: normal;
+    margin-top: 1.5em
+}
+
+.ads-container .ab-message .login-window .forbes-login-loading {
+    font-weight: 700;
+    font-style: italic
+}
+
+.ads-container .ab-message .login-window .forbes-login-error,.ads-container .ab-message .login-window .login-error {
+    color: red
+}
+
+.ads-container .ab-message .login-window .login-error {
+    text-align: center
+}
+
+.ads-container .ab-message-1 {
+    height: 510px;
+    font-family: "Open Sans",sans-serif;
+    border: 1px solid #858585
+}
+
+.ads-container .ab-message-1.login-visible {
+    height: 400px
+}
+
+.ads-container .ab-message-1.login-visible .login-toggle {
+    font-size: 20px
+}
+
+#adlight {
+    will-change: translate;
+    z-index: 3;
+    position: absolute;
+    left: 25%;
+    top: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    height: 80%;
+    white-space: normal;
+    width: 45%;
+    text-align: left;
+    font: 300 32px/35.2px Raleway,sans-serif;
+    font: 300 2rem/2.2rem Raleway,sans-serif;
+    background-color: #fff;
+    border: 1px #000;
+    overflow: hidden;
+    padding: 20px
+}
+
+#adlight .close-btn {
+    display: none;
+    font-size: 16px;
+    font-size: 1rem;
+    float: right;
+    cursor: pointer
+}
+
+#adlight ul {
+    list-style-type: circle;
+    margin-left: 2em
+}
+
+.leaderboard #adlight {
+    width: 100%;
+    height: 100%;
+    top: -25%;
+    left: 50%;
+    text-align: center
+}
+
+.leaderboard #adlight .adlight-description {
+    font: 300 25.6px/28.8px Raleway,sans-serif;
+    font: 300 1.6rem/1.8rem Raleway,sans-serif
+}
+
+.leaderboard #adlight .adlight-description ul {
+    list-style-position: inside
+}
+
+@media screen and (max-width: 768px) {
+    .ads-container {
+        margin-left:0;
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+        float: none
+    }
+
+    .ads-container .bottom-options {
+        position: relative!important
+    }
+
+    .ads-container .ab-message.ab-message-1 .login-window .login-message svg {
+        width: 72px;
+        height: 72px
+    }
+
+    .ads-container .ab-message.ab-message-1 .login-window .login-message .detected {
+        font-size: 35px;
+        padding-bottom: 5px
+    }
+
+    .ads-container .ab-message.ab-message-1 .forbes-login-error,.ads-container .ab-message.ab-message-1 .forbes-login-loading {
+        margin-top: .5em
+    }
+
+    .ads-container .login-toggle {
+        right: 5px!important;
+        top: 5px!important
+    }
+
+    .ads-container .forbes-login {
+        padding-top: 0!important
+    }
+
+    .ab-message-1 {
+        padding-top: 0
+    }
+
+    .ad-800-by-600 .ads-container #welcome {
+        position: relative;
+        left: -1rem
+    }
+
+    .leaderboard .ads-container .ab-message {
+        width: 100%
+    }
+
+    #welcome {
+        text-align: center!important
+    }
+
+    #adlight {
+        font: 300 1.6rem/1.8rem Raleway,sans-serif;
+        left: 50%;
+        top: 75%;
+        width: 100%;
+        height: 50%
+    }
+
+    #adlight .adlight-description {
+        margin-top: 2rem
+    }
+
+    #adlight .close-btn {
+        display: inline
+    }
+
+    .leaderboard #adlight {
+        top: 50%;
+        height: 100%
+    }
+
+    .leaderboard #adlight .adlight-description {
+        font: 300 1.2rem/1.4rem Raleway,sans-serif
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width:1025px) {
+    .ads-container {
+        margin-top:2.25rem
+    }
+
+    .ads-container .ab-message.ab-message-1 {
+        width: 570px;
+        height: 427px
+    }
+
+    .ads-container .ab-message.ab-message-1 .login-window .login-message {
+        font-size: 25px
+    }
+
+    .ads-container .ab-message.ab-message-1 .login-window .login-message svg {
+        width: 72px;
+        height: 72px
+    }
+
+    .ads-container .ab-message.ab-message-1 .login-window .login-message .detected {
+        font-size: 45px;
+        padding-bottom: 10px
+    }
+
+    .ab-message {
+        height: 450px;
+        font: 300 1.8rem/2rem Raleway,sans-serif
+    }
+
+    #adlight {
+        width: 40%;
+        left: 20%
+    }
+
+    #adlight .adlight-description {
+        font: 300 1.6rem/1.8rem Raleway,sans-serif;
+        margin-top: 2rem
+    }
+
+    #adlight .close-btn {
+        display: inline
+    }
+
+    .leaderboard #adlight {
+        top: 50%;
+        height: 100%
+    }
+
+    .leaderboard #adlight .adlight-description {
+        font: 300 1.2rem/1.4rem Raleway,sans-serif
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .ads-container .ab-message {
+        height:250px;
+        position: relative;
+        width: 100%;
+        padding: 10px
+    }
+
+    .ads-container .ab-message.ab-message-1 {
+        line-height: normal;
+        height: auto
+    }
+
+    .ads-container .ab-message.ab-message-2 {
+        font: 300 1.6rem/1.8rem Raleway,sans-serif
+    }
+
+    .ads-container .ab-message .login-window,.ads-container .ab-message p {
+        padding-right: 10px;
+        position: relative;
+        -webkit-transform: none;
+        -ms-transform: none;
+        transform: none;
+        top: 0
+    }
+
+    .ads-container .ab-message .login-window .forbes-login .forbes-logo {
+        padding: .5em 0
+    }
+
+    .ads-container .ab-message .login-window .forbes-login .forbes-login-button,.ads-container .ab-message .login-window .forbes-login .password,.ads-container .ab-message .login-window .forbes-login .username {
+        display: block;
+        margin-bottom: .5em
+    }
+
+    .ads-container .ab-message .login-window .forbes-login .password {
+        margin-right: 0
+    }
+
+    .ads-container .ab-message .login-window .forbes-login .forbes-login-button {
+        width: 200px;
+        height: 35px;
+        margin: .5em auto
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .ads-container {
+        margin-top:1.88rem!important;
+        margin-bottom: 0!important
+    }
+
+    .ads-container .ab-message.ab-message-1 {
+        border: none
+    }
+
+    .ads-container .ab-message .login-window {
+        padding: 10px;
+        border: 1px solid #858585
+    }
+
+    .ads-container .ab-message .login-window .login-message {
+        font-size: 16px;
+        margin-bottom: 1.25em
+    }
+
+    .ads-container .ab-message .login-window .login-message .whitelist-hover {
+        padding: .25em .75em
+    }
+
+    .ads-container .ab-message .login-window .forbes-login .forbes-logo {
+        padding-bottom: 0;
+        font-size: 18px
+    }
+
+    .ads-container .ab-message .login-window .forbes-login .forbes-login-button,.ads-container .ab-message .login-window .forbes-login .password,.ads-container .ab-message .login-window .forbes-login .username {
+        display: inline-block
+    }
+
+    .ads-container .ab-message .login-window .forbes-login #forbes-password,.ads-container .ab-message .login-window .forbes-login #forbes-username {
+        width: 108px
+    }
+
+    .ads-container .ab-message .login-window .forbes-login .forbes-login-button {
+        position: relative;
+        width: 40px;
+        height: 35px;
+        margin: .5em 0
+    }
+
+    .ads-container .ab-message .login-window .forbes-login .forbes-login-button:before {
+        content: '\203A';
+        font-size: 2em;
+        position: absolute;
+        top: 13px;
+        left: 16px;
+        display: block;
+        will-change: translate;
+        -webkit-transform: translate(0,-50%);
+        -ms-transform: translate(0,-50%);
+        transform: translate(0,-50%)
+    }
+
+    .ads-container .ab-message .login-window .forbes-login-error {
+        margin-top: 0
+    }
+
+    .ads-container .ab-message .login-window .forbes-login-error,.ads-container .ab-message .login-window .login-error {
+        font-size: 13px
+    }
+
+    .ads-container .ab-message .login-window .login-hr {
+        margin: .5em auto;
+        font-size: 15px
+    }
+
+    .ads-container .ab-message .login-window .terms {
+        margin-top: .5em
+    }
+
+    #adlight {
+        font: 300 1.1rem/1.3rem Raleway,sans-serif;
+        left: 50%;
+        top: 70%;
+        width: 100%;
+        height: 60%
+    }
+}
+
+@media all and (min-width: 481px) and (max-width:768px) and (max-height:768px) {
+    .ads-container {
+        position:static;
+        margin: 0!important
+    }
+
+    .leaderboard .ads-container #welcome {
+        float: none
+    }
+
+    #adlight {
+        top: 50%;
+        height: 100%
+    }
+
+    #welcome {
+        float: right
+    }
+
+    #welcome div:first-child {
+        text-align: right!important
+    }
+}
