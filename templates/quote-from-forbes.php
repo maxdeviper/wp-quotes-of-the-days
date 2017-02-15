@@ -5,7 +5,7 @@
 		    
 
 		    
-		        <div class="continue-button">Continue to Site <i class="chevron icon icon-chevron-right"></i></div>
+		        <div class="continue-button hidden">Continue to Site <i class="chevron icon icon-chevron-right"></i></div>
 		        <div class="countdown ">
 		            <span class="lead">
 		                Continue In <span class="count invisible">1</span>
@@ -21,8 +21,8 @@
 	        	<div class="content-inner">
 	        		<h1 class="title"><span class="top ">Quote of</span> <span class="bottom ">the Day</span></h1>
 	        		<div class="body"> 
-	        			<blockquote class="body-content ">Follow what you love. And eventually, the thing that you love, and I mean love as a verb, will love you back.</blockquote>
-	        			<p class="body-byline ">Leslie Odom Jr.</p> 
+	        			<blockquote class="body-content "><?php echo '"'.htmlentities($quoteText).'"'; ?></blockquote>
+	        			<p class="body-byline ">-<?php echo htmlentities($quoteAuthor); ?></p> 
 	    			</div>
 	    		</div>
 	    	</div> 

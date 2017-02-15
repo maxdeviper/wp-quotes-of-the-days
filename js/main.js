@@ -2,6 +2,7 @@
 (function($){
 	$(document).ready(function(){
 		$('#wp-quotes').show();
+		$("body").addClass("quote-shown");
 		// setTimeout(function(){
 		// 	$('#wp-quotes').fadeOut( "slow" );
 		// }, 8000);
@@ -19,6 +20,7 @@
 		}
 		setTimeout(countDown, 1000, _countDownNumber);
 		$(document).on('click', '.continue-button', function(e){
+			$("body").removeClass("quote-shown");
 			$('#wp-quotes').fadeOut( "slow" );
 		});
 	});

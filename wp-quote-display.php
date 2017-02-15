@@ -6,7 +6,7 @@
  * @wordpress-plugin
  * Plugin URI:        www.opushive.com
  * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
- * Version:           0.0.1
+ * Version:           0.0.5
  * Author:            Opus Hive
  * Author URI:        www.opushive.com
  * License:           GPL-2.0+
@@ -15,10 +15,27 @@
  */
 
 function opus_hive_display_quote(){
+	$queryArgs = array(
+			'method' => 'getQuote',
+			'format' => 'json',
+			'lang'   => 'en'
 
-	ob_start();
-	include plugin_dir_path( __FILE__ ).'/templates/quote-from-forbes.php';
-	$html = ob_get_clean();
+		);
+	$html = '';
+	$request = wp_remote_get( 'http://api.forismatic.com/api/1.0/?'.http_build_query($queryArgs));
+	if(is_wp_error( $request )) {
+        error_log('error in making request for quotes');
+        return '';
+     }
+    $response = json_decode( wp_remote_retrieve_body($request), true);
+    //die(var_dump($response));
+    if (!empty($response)){
+
+	    extract($response);
+		ob_start();
+		include plugin_dir_path( __FILE__ ).'/templates/quote-from-forbes.php';
+		$html = ob_get_clean();
+    }
 	return $html;
 
 }
