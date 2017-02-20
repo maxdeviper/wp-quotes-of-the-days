@@ -1,6 +1,7 @@
 
 (function($){
 	$(document).ready(function(){
+		$('body').append($('#wp-quotes-template').html());
 		$('#wp-quotes').show();
 		if ($('#wp-quotes').length > 0){
 			$("body").addClass("quote-shown");
