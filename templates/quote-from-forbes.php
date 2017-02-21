@@ -9,7 +9,7 @@
 			        <div class="continue-button hidden">Continue to Site <i class="chevron icon icon-chevron-right"></i></div>
 			        <div class="countdown ">
 			            <span class="lead">
-			                Continue In <span class="count">1</span>
+			                Continue In <span class="count"></span>
 			            </span>
 			        </div>
 			    
@@ -20,7 +20,7 @@
 		
 		        <div class="content-container">
 		        	<div class="content-inner">
-		        		<h1 class="title"><span class="top ">Quote of</span> <span class="bottom ">the Day</span></h1>
+		        		<h1 class="title"><span class="top ">Memorable</span> <span class="bottom ">Quotes</span></h1>
 		        		<div class="body"> 
 		        			<blockquote class="body-content "><?php echo '"'.htmlentities($quoteText).'"'; ?></blockquote>
 		        			<p class="body-byline ">-<?php echo htmlentities($quoteAuthor); ?></p> 

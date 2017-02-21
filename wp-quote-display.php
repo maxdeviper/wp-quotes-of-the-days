@@ -6,7 +6,7 @@
  * @wordpress-plugin
  * Plugin URI:        www.opushive.com
  * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
- * Version:           0.0.6
+ * Version:           0.0.12
  * Author:            Opus Hive
  * Author URI:        www.opushive.com
  * License:           GPL-2.0+
@@ -14,7 +14,7 @@
  * Text Domain:       wp-quote-display
  */
 
-function opus_hive_display_quote(){
+function opus_hive_quote_shortcode(){
 	$queryArgs = array(
 			'method' => 'getQuote',
 			'format' => 'json',
@@ -92,12 +92,12 @@ function opus_hive_display_quote_after_content($content){
 }
 
 function opus_hive_quote_enqueue_style() {
-	wp_enqueue_style( 'opus_hive_quote_css', plugin_dir_url( __FILE__ ).'/css/main2.css',false, '0.0.11'); 
+	wp_enqueue_style( 'opus_hive_quote_css', plugin_dir_url( __FILE__ ).'/css/main2.css',false, '0.0.12'); 
 	wp_enqueue_style( 'font-awesome', "https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"); 
 }
 
 function opus_hive_quote_enqueue_script() {
-	wp_enqueue_script( 'opus_hive_quote_js', plugin_dir_url( __FILE__ ).'/js/main.js', array( 'jquery' ), '0.0.7');
+	wp_enqueue_script( 'opus_hive_quote_js', plugin_dir_url( __FILE__ ).'/js/main.js', array( 'jquery' ), '0.0.12');
 }
 function opus_hive_start_outputbuffer(){
 	if ( !is_admin() ) {
@@ -110,8 +110,8 @@ function opus_hive_add_quote_to_bottom_page($output){
     return $newcontent;
 }
 
-add_shortcode( 'wp-quote-of-the-day', 'opus_hive_display_quote' );
+add_shortcode( 'wp-quote-of-the-day', 'opus_hive_quote_shortcode' );
 add_action( 'wp_enqueue_scripts', 'opus_hive_quote_enqueue_style' );
 add_action( 'wp_enqueue_scripts', 'opus_hive_quote_enqueue_script' );
-add_filter ('the_content', 'opus_hive_display_quote_after_content', 10);
+//add_filter ('the_content', 'opus_hive_display_quote_after_content', 10);
 // add_action( 'wp_loaded', 'opus_hive_start_outputbuffer', 10);

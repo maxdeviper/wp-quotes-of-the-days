@@ -1,19 +1,21 @@
 
 (function($){
 	$(document).ready(function(){
-		$('body').append($('#wp-quotes-template').html());
-		$('#wp-quotes').show();
-		if ($('#wp-quotes').length > 0){
+		if ($('#wp-quotes-template').length > 0){
+		    $('body').append($('#wp-quotes-template').html());
+		    $('#wp-quotes').show();
 			$("body").addClass("quote-shown");
-			var _countDownNumber = 0;
+			var _countDownNumber = 5;
+
+			$('#wp-quotes .countdown .lead span.count').text(_countDownNumber);
 			var countDown = function(countDownNumber){
-				if (countDownNumber >= 5){
+				if (countDownNumber <= 1){
 					$('#wp-quotes .countdown').hide(function(){
 						$('#wp-quotes .continue-button').css('display', 'inline-block');
 					});
 					return;
 				}
-				countDownNumber++;
+				countDownNumber--;
 				$('#wp-quotes .countdown .lead span.count').text(countDownNumber);
 				setTimeout(countDown,1000, countDownNumber);
 			}
