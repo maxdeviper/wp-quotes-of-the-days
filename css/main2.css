@@ -77,8 +77,8 @@
     position: relative;
     /*z-index: 2;*/
     margin: 0;
-    border-radius: 100%; 
-    border: 2px solid #fff;
+   /* border-radius: 100%; */
+   /* border: 2px solid #fff;*/
 }
 #wp-quotes blockquote, #wp-quotes .content-container .body {
     color: #e6f4f4;
